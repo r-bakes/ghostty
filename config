@@ -6,3 +6,7 @@ theme = Catppuccin Latte
 # font-size = 14
 
 # Keybinds
+keybind = ctrl+h=goto_split:left
+keybind = ctrl+j=goto_split:bottom
+keybind = ctrl+k=goto_split:top
+keybind = ctrl+l=goto_split:right
